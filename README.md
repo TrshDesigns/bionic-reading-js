@@ -1,7 +1,4 @@
 # bionic-reading-js
-A lightweight, no-dependency JavaScript library that enhances text readability on websites using Bionic Reading-inspired typography.
-
-# bionic-reading-js
 
 A lightweight, no-dependency JavaScript library that enhances text readability on websites using Bionic Reading-inspired typography. This script dynamically bolds portions of words based on length and linguistic importance, guiding the reader’s eye for faster comprehension. Ideal for accessibility-focused projects, it’s easy to integrate into any webpage and optimized for CDN delivery.
 
