@@ -11,4 +11,4 @@ A lightweight, no-dependency JavaScript library that enhances text readability o
 ## Installation
 ### Via CDN (jsDelivr)
 ```html
-<script src="https://cdn.jsdelivr.net/gh/TrshDesigns/bionic-reading-js@v1.0.0/bionic-reading-v3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/TrshDesigns/bionic-reading-js/bionic-reading-v3.min.js"></script>
