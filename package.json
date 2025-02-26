@@ -1,0 +1,10 @@
+{
+    "name": "bionic-reading-js",
+    "version": "1.0.0",
+    "description": "A Bionic Reading-inspired script to enhance text readability.",
+    "main": "bionic-reading-v3.min.js",
+    "license": "MIT",
+    "repository": "https://github.com/TrshDesigns/bionic-reading-js",
+    "author": "TRSHDESINGS",
+    "files": ["bionic-reading-v3.js", "bionic-reading-v3.min.js"]
+  }
